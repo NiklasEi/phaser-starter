@@ -1,8 +1,7 @@
 {
-  "name": "phaser-test",
+  "name": "phaser-starter",
   "version": "1.0.0",
-  "description": "Testing the phaser HTML5 game engine",
-  "main": "src/index.js",
+  "description": "Starter project for the Phaser HTML5 game engine",
   "scripts": {
     "build": "webpack",
     "dev": "webpack-dev-server",
@@ -11,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiklasEi/phaser-test.git"
+    "url": "git+https://github.com/NiklasEi/phaser-starter.git"
   },
   "author": "Niklas Eicker <git@nikl.me>",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/NiklasEi/phaser-test/issues"
+    "url": "https://github.com/NiklasEi/phaser-starter/issues"
   },
-  "homepage": "https://github.com/NiklasEi/phaser-test#readme",
+  "homepage": "https://github.com/NiklasEi/phaser-starter#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "4.2.0",
     "@typescript-eslint/parser": "4.2.0",
